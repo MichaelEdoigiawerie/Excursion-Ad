@@ -1,0 +1,61 @@
+/*Global Styles*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: black;
+    margin: 0;
+}
+
+div {
+    width: 80%;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    padding: 2rem;
+}
+
+footer p {
+    margin: 0;
+}
+
+a {
+    display: block;
+    font-size: 1rem;
+    color: aquamarine;
+}
+
+h1, h2 {
+    color: white;
+    font-weight: normal;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3.125rem;
+}
+
+h2 {
+    font-size: 2.625rem;
+}
+
+p {
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+/*Advertisement Section*/
+#ad {
+
+}
+
+/*Travel Guide Section*/
+#travel-guide {
+
+}
+
+/*Coming Soon Section*/
+#coming-soon {
+
+}
